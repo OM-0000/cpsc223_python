@@ -7,7 +7,11 @@
 
 first_int = int(input("What is the integer? "))
 second_float = float(input("What is the float? "))
-print(f"{first_int} + {second_float} is {first_int + second_float} ")
-print(f"{first_int} - {second_float} is {first_int - second_float} ")
-print(f"{first_int} * {second_float} is {first_int * second_float} ")
-print(f"{first_int} / {second_float} is {first_int / second_float} ")
+message_str = f"{first_int} + {second_float} is {first_int + second_float} "
+print(message_str)
+message_str = f"{first_int} - {second_float} is {first_int - second_float} "
+print(message_str)
+message_str = f"{first_int} * {second_float} is {first_int * second_float} "
+print(message_str)
+message_str = f"{first_int} / {second_float} is {first_int / second_float} "
+print(message_str)
