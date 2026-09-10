@@ -7,11 +7,7 @@ g_list = ['Mortal Kombat', 'Contra', 'Streets Of Rage', 'Shinobi', 'Sonic', 'Pha
 print("Here are the top Sega games:")
 for idx in range(0, len(g_list)):
     print(g_list[idx])
-rmv_str = input("Which one do you think should be removed? ")
-for idx in range(0, len(g_list)):
-     if g_list[idx] == rmv_str:
-          del(g_list[idx])
-          break
+g_list.remove(input("Which one do you think should be removed? "))
 print("Here are the new top Sega games:")
 for idx in range(0, len(g_list)):
     print(g_list[idx])
