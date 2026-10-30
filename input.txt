@@ -1,0 +1,14 @@
+Here are the user agents:
+User-agent: *
+User-agent: adsbot-google
+User-agent: Nutch
+User-agent: AhrefsBot
+User-agent: AhrefsSiteAudit
+User-agent: MJ12bot
+User-agent: Pinterest
+Here are the sitemaps:
+Sitemap: https://panasonickitchen.com/sitemap.xml
+Sitemap: https://panasonickitchen.com/sitemap.xml
+Sitemap: https://panasonickitchen.com/sitemap.xml
+Here are the crawl delays:
+Crawl-Delay: 10
