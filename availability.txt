@@ -1,0 +1,758 @@
+[CPSC481]
+
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 02 - Class Nbr 18165 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Monday Wednesday
+2:30PM to 3:45PM
+	
+CS 401 - Computer Lab
+	
+In Person
+	
+Winnie Han
+	
+Open Seats 29 of 30
+	
+Dummy
+	
+
+whan@fullerton.edu
+	
+ 
+2
+	
+Open
+	
+Regular Academic Session
+	
+Section 03 - Class Nbr 18188 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Tuesday Thursday
+5:30PM to 6:45PM
+	
+EC 067 - Lecture Room
+	
+In Person
+	
+Anand Panangadan
+	
+Open Seats 34 of 35
+	
+Dummy
+	
+
+apanangadan@fullerton.edu
+	
+ 
+3
+	
+Open
+	
+Regular Academic Session
+	
+Section 04 - Class Nbr 18864 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Wednesday
+7:00PM to 9:45PM
+	
+Hum 514 - Lecture Room
+	
+In Person
+	
+To Be Announced
+	
+Open Seats 35 of 35
+	
+Dummy
+	
+
+csdept@fullerton.edu
+	
+ 
+4
+	
+Open
+	
+Regular Academic Session
+	
+Section 05 - Class Nbr 18692 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Tuesday Thursday
+4:00PM to 5:15PM
+	
+EC 067 - Lecture Room
+	
+In Person
+	
+Anand Panangadan
+	
+Open Seats 33 of 35
+	
+Dummy
+	
+
+apanangadan@fullerton.edu
+	
+ 
+5
+	
+Open
+	
+Regular Academic Session
+	
+Section 07 - Class Nbr 18460 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Tuesday Thursday
+10:00AM to 11:15AM
+	
+CS 101 - Teaching Lab
+	
+In Person
+	
+Mira Kim
+	
+Open Seats 33 of 34
+	
+Dummy
+	
+
+mira.kim@fullerton.edu
+	
+ 
+6
+	
+Open
+	
+Regular Academic Session
+	
+Section 09 - Class Nbr 18663 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Monday Wednesday
+11:30AM to 12:45PM
+	
+MOD 106 - Modular
+	
+In Person
+	
+To Be Announced
+	
+Open Seats 34 of 35
+	
+Dummy
+	
+
+csdept@fullerton.edu
+	
+ 
+7
+	
+Open
+	
+Regular Academic Session
+	
+Section 11 - Class Nbr 18662 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Monday Wednesday
+10:00AM to 11:15AM
+	
+Hum 514 - Lecture Room
+	
+In Person
+	
+To Be Announced
+	
+Open Seats 35 of 35
+	
+Dummy
+	
+
+csdept@fullerton.edu
+	
+ 
+8
+	
+Open
+	
+Regular Academic Session
+	
+Section 12 - Class Nbr 21233 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Tuesday Thursday
+8:30AM to 9:45AM
+	
+CS 401 - Computer Lab
+	
+In Person
+	
+Mira Kim
+	
+Open Seats 30 of 30
+	
+Dummy
+	
+
+mira.kim@fullerton.edu
+	
+ 
+9
+	
+Open
+	
+Regular Academic Session
+	
+Section 13 - Class Nbr 21237 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Monday Wednesday
+8:30AM to 9:45AM
+	
+CS 406 - Teaching Lab
+	
+In Person
+	
+Winnie Han
+	
+Open Seats 35 of 35
+	
+Dummy
+	
+
+whan@fullerton.edu
+
+[MATH 340]
+
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 01 - Class Nbr 19051 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Monday Wednesday
+10:00AM to 11:50AM
+	
+MH 476 - Teaching Lab
+	
+In Person
+	
+Derdei Bichara
+	
+Open Seats 33 of 35
+	
+	
+
+dbichara@fullerton.edu
+
+
+[MATH 335]
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 01 - Class Nbr 18984 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Tuesday Thursday
+10:00AM to 11:50AM
+	
+MH 514 - Lecture Room
+	
+In Person
+	
+Navneet Hakhu
+	
+Open Seats 20 of 25
+	
+	
+
+nhakhu@fullerton.edu
+	
+ 
+2
+	
+Open
+	
+Regular Academic Session
+	
+Section 02 - Class Nbr 19008 - Discussio
+	
+01/23/2027 - 05/14/202701/23/2027 - 05/14/2027
+	
+Monday Wednesday
+4:00PM to 5:50PM
+Monday Wednesday
+4:00PM to 5:50PM
+	
+MH 491 - Lecture RoomZoom
+	
+Mostly In-Person (Hybrid)
+	
+Andrew NguyenTo Be Announced
+	
+Open Seats 25 of 25
+	
+	
+
+anguyen@fullerton.edu
+mathoffice@fullerton.edu
+
+[CPSC 459]
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 01 - Class Nbr 18340 - Lecture
+	
+01/23/2027 - 05/14/2027
+	
+Monday Wednesday
+10:00AM to 11:15AM
+	
+CS 406 - Teaching Lab
+	
+In Person
+	
+Winnie Han
+	
+Open Seats 34 of 35
+	
+	
+
+whan@fullerton.edu
+
+[CPSC 352]
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 01 - Class Nbr 18183 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Monday
+7:00PM to 9:45PM
+	
+CS 104 - Teaching Lab
+	
+In Person
+	
+Mikhail Gofman
+	
+Open Seats 35 of 35
+	
+Dummy
+	
+
+mgofman@fullerton.edu
+	
+ 
+2
+	
+Open
+	
+Regular Academic Session
+	
+Section 02 - Class Nbr 18677 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Wednesday
+7:00PM to 9:45PM
+	
+CS 104 - Teaching Lab
+	
+In Person
+	
+Kenytt Avery
+	
+Open Seats 34 of 35
+	
+Dummy
+	
+
+kavery@fullerton.edu
+
+
+[CPSC 464]
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 01 - Class Nbr 18158 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Thursday
+7:00PM to 9:45PM
+	
+EC 122 - Lecture Room
+	
+In Person
+	
+To Be Announced
+	
+Open Seats 35 of 35
+	
+Dummy
+	
+
+csdept@fullerton.edu
+	
+ 
+2
+	
+Open
+	
+Regular Academic Session
+	
+Section 03 - Class Nbr 18845 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Thursday
+4:00PM to 6:45PM
+	
+Hum 125 - Lecture Room
+	
+In Person
+	
+Mine Hagen
+	
+Open Seats 32 of 35
+	
+Dummy
+	
+
+minehagen@fullerton.edu
+
+[CPSC 484]
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 03 - Class Nbr 22194 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Tuesday
+7:00PM to 9:45PM
+	
+EC 167 - Lecture Room
+	
+In Person
+	
+Dave Garcia-Gomez
+	
+Open Seats 34 of 35
+	
+Dummy
+	
+
+dgarcia-gomez@fullerton.edu
+
+[CPSC 485]
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 01 - Class Nbr 18320 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Tuesday Thursday
+10:00AM to 11:15AM
+	
+CS 300 - Teaching Lab
+	
+In Person
+	
+Shawn Wang
+	
+Open Seats 31 of 33
+	
+Dummy
+	
+
+xwang@fullerton.edu
+	
+ [CPSC 431]
+ Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 01 - Class Nbr 18181 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Monday Wednesday
+5:30PM to 6:45PM
+	
+Hum 426 - Lecture Room
+	
+In Person
+	
+Steven Cooper
+	
+Open Seats 35 of 35
+	
+	
+
+stcooper@fullerton.edu
+
