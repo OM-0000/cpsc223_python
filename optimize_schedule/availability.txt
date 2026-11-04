@@ -1,4 +1,4 @@
-[CPSC481]
+[CPSC 481]
 
 Option
 	
@@ -706,7 +706,7 @@ Dummy
 
 xwang@fullerton.edu
 	
- [CPSC 431]
+[CPSC 431]
  Option
 	
 Status
@@ -756,3 +756,694 @@ Open Seats 35 of 35
 
 stcooper@fullerton.edu
 
+
+
+[CPSC 483]
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 02 - Class Nbr 18699 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Monday Wednesday
+10:00AM to 11:15AM
+	
+CS 300 - Teaching Lab
+	
+In Person
+	
+Nathan Justin
+	
+Open Seats 29 of 33
+	
+Dummy
+	
+
+najustin@fullerton.edu
+	
+ 
+2
+	
+Open
+	
+Regular Academic Session
+	
+Section 03 - Class Nbr 18700 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Monday Wednesday
+11:30AM to 12:45PM
+	
+CS 300 - Teaching Lab
+	
+In Person
+	
+Nathan Justin
+	
+Open Seats 28 of 33
+	
+Dummy
+	
+
+najustin@fullerton.edu
+	
+ 
+3
+	
+Open
+	
+Regular Academic Session
+	
+Section 05 - Class Nbr 18528 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Saturday
+1:00PM to 3:45PM
+	
+Hum 412 - Lecture Room
+	
+In Person
+	
+To Be Announced
+	
+Open Seats 35 of 35
+	
+Dummy
+	
+
+csdept@fullerton.edu
+	
+ 
+4
+	
+Open
+	
+Regular Academic Session
+	
+Section 06 - Class Nbr 18711 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Tuesday Thursday
+2:30PM to 3:45PM
+	
+CS 408 - Teaching Lab
+	
+In Person
+	
+Anand Panangadan
+	
+Open Seats 6 of 35
+	
+Dummy
+	
+
+apanangadan@fullerton.edu
+	
+ 
+5
+	
+Open
+	
+Regular Academic Session
+	
+Section 08 - Class Nbr 21779 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Tuesday Thursday
+10:00AM to 11:15AM
+	
+CS 401 - Computer Lab
+	
+In Person
+	
+Kanika Sood
+	
+Open Seats 22 of 30
+	
+Dummy
+	
+
+kasood@fullerton.edu
+	
+ 
+6
+	
+Open
+	
+Regular Academic Session
+	
+Section 09 - Class Nbr 22297 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Tuesday
+7:00PM to 9:45PM
+	
+EC 109 - Lecture Room
+	
+In Person
+	
+To Be Announced
+	
+Open Seats 18 of 23
+	
+Dummy
+	
+
+csdept@fullerton.edu
+
+[CPSC 254]
+
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 01 - Class Nbr 18578 - Lecture
+	
+01/23/2027 - 05/14/2027
+	
+Monday Wednesday
+4:00PM to 5:15PM
+	
+CS 104 - Teaching Lab
+	
+In Person
+	
+Christopher Ryu
+	
+Open Seats 37 of 45
+	
+	
+
+tryu@fullerton.edu
+	
+ 
+2
+	
+Open
+	
+Regular Academic Session
+	
+Section 02 - Class Nbr 18723 - Lecture
+	
+01/23/2027 - 05/14/2027
+	
+Monday Wednesday
+1:00PM to 2:15PM
+	
+CS 104 - Teaching Lab
+	
+In Person
+	
+To Be Announced
+	
+Open Seats 26 of 45
+	
+	
+
+csdept@fullerton.edu
+	
+ 
+3
+	
+Open
+	
+Regular Academic Session
+	
+Section 04 - Class Nbr 18848 - Lecture
+	
+01/23/2027 - 05/14/2027
+	
+Tuesday
+4:00PM to 6:45PM
+	
+MOD 107 - Computer Lab
+	
+In Person
+	
+Dhusdee Chandswang
+	
+Open Seats 26 of 32
+	
+	
+
+dchandswang@fullerton.edu
+
+
+[CPSC 349]
+
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 05 - Class Nbr 18561 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Saturday
+9:00AM to 11:45AM
+	
+E 202 - Lecture Room
+	
+In Person
+	
+Tseng-Ching Shen
+	
+Open Seats 44 of 45
+	
+Dummy
+	
+
+jtcshen@fullerton.edu
+	
+ 
+2
+	
+Open
+	
+Regular Academic Session
+	
+Section 06 - Class Nbr 18688 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Saturday
+1:00PM to 3:45PM
+	
+E 202 - Lecture Room
+	
+In Person
+	
+Duy Ho
+	
+Open Seats 39 of 45
+	
+Dummy
+	
+
+duyho@fullerton.edu
+
+
+[CPSC 411]
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 04 - Class Nbr 18686 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Thursday
+7:00PM to 9:45PM
+	
+CS 101 - Teaching Lab
+	
+In Person
+	
+Tseng-Ching Shen
+	
+Open Seats 33 of 34
+	
+Dummy
+	
+
+jtcshen@fullerton.edu
+	
+ 
+2
+	
+Open
+	
+Regular Academic Session
+	
+Section 06 - Class Nbr 22195 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Tuesday
+7:00PM to 9:45PM
+	
+CS 101 - Teaching Lab
+	
+In Person
+	
+To Be Announced
+	
+Open Seats 25 of 34
+	
+Dummy
+	
+
+csdept@fullerton.edu
+
+[CPSC 463]
+
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 01 - Class Nbr 18160 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Monday Wednesday
+8:30AM to 9:45AM
+	
+E-SE022 - Lecture Room
+	
+In Person
+	
+Ning Chen
+	
+Open Seats 31 of 35
+	
+Dummy
+	
+
+nchen@fullerton.edu
+
+[PHYS 315]
+
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 01 - Class Nbr 21454 - Discussio
+Section 02 - Class Nbr 21775 - Activity
+	
+01/23/2027 - 05/14/2027
+	
+Monday
+10:30AM to 12:15PM
+Wednesday
+10:30AM to 12:15PM
+	
+MH 629 - Computer Lab
+MH 629 - Computer Lab
+	
+In Person
+	
+To Be Announced
+To Be Announced
+	
+Open Seats 21 of 25
+Open Seats 20 of 24
+	
+Dummy
+	
+
+physicsoffice@fullerton.edu
+
+[PHYS 300]
+
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 01 - Class Nbr 20841 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Monday Wednesday
+9:00AM to 10:15AM
+	
+MH 629 - Computer Lab
+	
+In Person
+	
+To Be Announced
+	
+Open Seats 25 of 25
+	
+Dummy
+	
+
+physicsoffice@fullerton.edu
+
+
+[PHYS 227]
+
+Option
+	
+Status
+	
+Session
+	
+Class
+	
+Meeting Dates
+	
+Days and Times
+	
+Room
+	
+Instruction Mode
+	
+Instructor
+	
+Seats
+	
+Textbooks
+	
+Instructor Email
+	
+1
+	
+Open
+	
+Regular Academic Session
+	
+Section 01 - Class Nbr 20351 - Discussio
+	
+01/23/2027 - 05/14/2027
+	
+Tuesday Thursday
+8:30AM to 9:45AM
+	
+MH 682 - Lecture Room
+	
+In Person
+	
+To Be Announced
+	
+Open Seats 67 of 78
+	
+Dummy
+	
+
+physicsoffice@fullerton.edu
+	
+ 
+2
+	
+Open
+	
+Mini Session 1
+	
+Section 02 - Class Nbr 20352 - Discussio
+	
+01/23/2027 - 02/26/2027
+	
+Tuesday Thursday
+8:30AM to 9:45AM
+	
+MH 682 - Lecture Room
+	
+In Person
+	
+To Be Announced
+	
+Open Seats 9 of 10
+	
+Dummy
+	
+
+physicsoffice@fullerton.edu

@@ -219,7 +219,7 @@ begin_class_instance=False #Looking for day/times
 section_empty=True
 n = len(raw_text)
 for i, line in enumerate(raw_text, 1):
-    if line == '\n' and i != n:
+    if (line == '\n' or len(line.strip()) == 0) and i != n:
         continue
     if i == n:
         if begin_class_instance:
@@ -227,7 +227,8 @@ for i, line in enumerate(raw_text, 1):
             print(f"Pushing last section for {class_name}")
         classGenus.Print()
         all_classes.append(classGenus)
-    if line[0]=='[':
+        break
+    if (line.strip())[0]=='[':
         if begin_class_instance:
             classGenus.PushSection(section)
         if begin_class:
