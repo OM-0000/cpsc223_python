@@ -1,4 +1,7 @@
 #Python Network Programming
+#-------------------------------------------
+#               << CLIENT >>
+#-------------------------------------------
 
 #Sockets Vocabulary
 #Domain : the set of protocols used for transport mechanisms like AF_INET, PF_INET, etc.
@@ -34,31 +37,18 @@
 import socket
 
 # create a socket object
-s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-print("Socket successfully created")
+s = socket.socket()
 
-# reserve a port on your computer
+# Define the port on which you want to connect
 port = 8000
 
-# bind to the port
-# by omitting ip argument in the ip field parameter,
-# we make the server listen to requests coming from other computers on the network
-s.bind(('', port))
-print("socket binded to %s" %(port))
+# connect to the server on the local computer
+s.connect(('127.0.0.1'))
 
-# put the socket into listening mode
-s.listen(5)
-print("socket is listening")
+# receive data from the server
+print(s.recv(1024))
 
-# an infinite loop until we interrupt it or an error occurs
-while True:
+# close the connection
+s.close()
 
-    # Establish a connection with a client.
-    c, addr = s.accept()
-    print("Got connection from", addr)
 
-    # send a thank you message to the client
-    c.send(b'Thank you for connecting')
-
-    # Close the connection with the client
-    c.close()
