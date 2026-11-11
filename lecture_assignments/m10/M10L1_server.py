@@ -65,3 +65,5 @@ while True:
 
     # Close the connection with the client
     c.close()
+    # Break once the connection is closed
+    break
