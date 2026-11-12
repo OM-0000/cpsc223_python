@@ -34,7 +34,7 @@ c, addr = s.accept()
 while True:
     # receive messages from client
     msg = c.recv(1024).decode()
-    if msg != 'q':
+    if msg != b'q':
         print(f"The client said: {msg}")
     else:
         print("chatBOT 3000 server out.")
