@@ -25,7 +25,7 @@ s.connect(('127.0.0.1', port))
 # receive data from the server and decode to get the string
 msg = input("Enter message (type 'q' to quit): ")
 if msg != 'q':
-    s.send()
+    s.send(msg)
 else:
     # close the connection
     s.close()
