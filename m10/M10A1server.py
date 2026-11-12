@@ -27,13 +27,11 @@ print("socket binded to %s" %(port))
 s.listen(5)
 print("socket is listening")
 
+
+# Establish a connection with a client.
+c, addr = s.accept()
 # an infinite loop until we interrupt it or an error occurs
 while True:
-
-    # Establish a connection with a client.
-    c, addr = s.accept()
-    print("Got connection from", addr)
-
     # receive messages from client
     msg = c.recv(1024).decode()
     print(f"The client said: {msg}")
