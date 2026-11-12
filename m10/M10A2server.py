@@ -46,6 +46,6 @@ while True:
     elif not listen:
         # encode user input and send to the client
         msg = input("Enter message: ").encode()
-        s.send(msg)
+        c.send(msg)
         listen = True      
                 
