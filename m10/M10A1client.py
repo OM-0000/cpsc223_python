@@ -22,12 +22,15 @@ port = int(input("What is the connecting port: "))
 # connect to the server on the local computer
 s.connect(('127.0.0.1', port))
 
-# receive data from the server and decode to get the string
-msg = input("Enter message (type 'q' to quit): ").encode()
-if msg != 'q':
-    s.send(msg)
-else:
-    # close the connection
-    s.close()
+while True:
+
+    # receive data from the server and decode to get the string
+    msg = input("Enter message (type 'q' to quit): ").encode()
+    if msg != 'q':
+        s.send(msg)
+    else:
+        # close the connection
+        s.close()
+        break
 
 
