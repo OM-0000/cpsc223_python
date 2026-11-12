@@ -18,8 +18,8 @@ if not allgood:
 
 if allgood:
     try:
-        html = requests.get(hostName)
-        doc = BeautifulSoup(html.text, "html.parser")
+        page = requests.get(hostName)
+        doc = BeautifulSoup(page.content, "html.parser")
         print(doc.prettify())
     except requests.exceptions.ConnectionError as e1:
         print("Could not connect to that url")
