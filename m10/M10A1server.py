@@ -34,8 +34,10 @@ c, addr = s.accept()
 while True:
     # receive messages from client
     msg = c.recv(1024).decode()
-    print(f"The client said: {msg}")
-    if msg == 'q':
+    if msg != 'q':
+        print(f"The client said: {msg}")
+    else:
+        print("chatBOT 3000 server out.")
         # Close the connection with the client
         c.close()
         # Break once the connection is closed

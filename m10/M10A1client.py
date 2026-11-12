@@ -26,9 +26,10 @@ while True:
 
     # receive data from the server and decode to get the string
     msg = input("Enter message (type 'q' to quit): ").encode()
-    if msg != 'q':
+    if msg != b'q':
         s.send(msg)
     else:
+        print("chatBOT 3000 client out.")
         # close the connection
         s.close()
         break
