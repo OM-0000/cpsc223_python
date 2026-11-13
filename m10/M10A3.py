@@ -21,7 +21,17 @@ if allgood:
         page = requests.get(hostName)
         doc = BeautifulSoup(page.content, "html.parser")
         #print(doc.prettify())
+        h1s = doc.find_all("h1")
+        h2s = doc.find_all("h2")
+        h3s = doc.find_all("h3")
         paragraphs = doc.find_all("p")
-        print(paragraphs)
+        for tag in h1s:
+            print(tag.upper())
+        for tag in h2s:
+            print(tag.upper())
+        for tag in h3s:
+            print(tag.lower())
+        for tag in paragraphs:
+            print(tag)
     except requests.exceptions.ConnectionError as e1:
         print("Could not connect to that url")
