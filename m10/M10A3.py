@@ -20,6 +20,8 @@ if allgood:
     try:
         page = requests.get(hostName)
         doc = BeautifulSoup(page.content, "html.parser")
-        print(doc.prettify())
+        #print(doc.prettify())
+        paragraphs = doc.find_all("p")
+        print(paragraphs)
     except requests.exceptions.ConnectionError as e1:
         print("Could not connect to that url")
