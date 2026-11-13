@@ -20,7 +20,13 @@ if allgood:
     try:
         page = requests.get(hostName)
         doc = BeautifulSoup(page.content, "html.parser")
-        #print(doc.prettify())
+        #Just to cover my bases, this following line should accomplish the baseline for the assignment:
+        print(doc.prettify())
+        #Now, I will attempt something like the extra credit, but since print all the text is ambiguous..
+        #.. I just attempted to find all the headers and paragraphs and print them (the headers in upper case, the paragraphs as they came).
+        print("")
+        print("----------------------------------")
+        print("")
         h1s = doc.find_all("h1")
         h2s = doc.find_all("h2")
         h3s = doc.find_all("h3")
