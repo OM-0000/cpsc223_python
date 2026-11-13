@@ -25,12 +25,21 @@ if allgood:
         h2s = doc.find_all("h2")
         h3s = doc.find_all("h3")
         paragraphs = doc.find_all("p")
-        for tag in h1s:
-            print(tag.upper())
-        for tag in h2s:
-            print(tag.upper())
-        for tag in h3s:
-            print(tag.lower())
+        try:
+            for tag in h1s:
+                print(tag.upper())
+        except TypeError:
+            pass
+        try:
+            for tag in h2s:
+                print(tag.upper())
+        except TypeError:
+            pass
+        try:
+            for tag in h3s:
+                print(tag.upper())
+        except TypeError:
+            pass
         for tag in paragraphs:
             print(tag)
     except requests.exceptions.ConnectionError as e1:
