@@ -1,0 +1,10 @@
+n = abs(count)//100
+    zero_count += n
+    if count < 0:
+        count += n*100
+    else:
+        count -= n*100
+    arrow += count
+
+    if arrow > 100 or arrow < 0:
+        zero_count += 1
